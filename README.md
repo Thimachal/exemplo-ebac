@@ -1,2 +1,2 @@
 # exemplo-ebac
-exemplo de git
+exemplo de git editando o exemplo
